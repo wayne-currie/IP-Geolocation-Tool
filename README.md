@@ -1,7 +1,6 @@
 # IP Geolocation Tool
 Python IP geolocation tool with both command-line (CLI) and Flask web interface.
 
-Link: https://ip-geolocation-tool.onrender.com/
 ## Features
 - IP validation (IPv4/IPv6)
 - Real-time geolocation lookup
